@@ -5,6 +5,8 @@ grub2-themes-ubuntu-mate
 Except where otherwise **noted**, content of grub2-themes-ubuntu-mate by Ivan Pejić aka nadrimajstor is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 ***
 
+[See the redesigned Ubuntu MATE GRUB Theme](https://github.com/RobLoach/ubuntu-mate)
+
 ![final](docs/final.png)
 
 ###Debian package install
